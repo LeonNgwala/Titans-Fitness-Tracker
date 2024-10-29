@@ -1,0 +1,84 @@
+Full Name: Lutho Ngwala, Email: luthongwala100@gmail.com, Password: bec0a83aac89bb3d95f10d6f3de4ab63fe7ba903c2befd71f0d43e9c0ed2f3b5
+Full Name: random user , Email: random@gmail.com, Password: 079128ecb6eccc6a026f16f30e132ad49360576031f69d4a3feb3bcafb2584ec
+
+random@gmail.com,Running,10/22/24,30,150,70,3.0
+random@gmail.com,Cycling,10/22/24,60,300,70,6.0
+random@gmail.com,Swimming,10/22/24,10,50,70,1.0
+random@gmail.com,Running,10/22/24,30,150,70,3.0
+random@gmail.com,Running,10/22/24,30,150,0.3,3.0,3.0
+random@gmail.com,Cycling,10/22/24,10,50,0.1,1.0,1.0
+random@gmail.com,Running,10/22/24,10,50,0.1,1.0,1.0
+random@gmail.com,Cycling,10/22/24,30,150,0.3,3.0,3.0
+random@gmail.com,Swimming,10/23/24,50,250,0.5,5.0,5.0
+random@gmail.com,Running,10/15/24,30,150,0.3,3.0,3.0
+random@gmail.com,Swimming,10/22/24,60,300,0.6,6.0,6.0
+random@gmail.com,Cycling,10/23/24,60,300,0.6,6.0,6.0
+random@gmail.com,Cycling,10/24/24,60,300,0.6,6.0,6.0
+Full Name: Sinelizwi Gebeda, Email: sinelizwi@gmail.com, Password: 4e9a041ddfcd45e1bc8512ec275e3184634ef89f0e9cde10b4e7c0f56b50bcbb
+Full Name: Zintle Dyesi, Email: zintle@gmail.com, Password: cbda4b9a2cd94e268524cc9ceae0e59dc51440e006075aa2083504b440659408
+Full Name: anonymous truthseeker, Email: anonymous@gmail.com, Password: 4667df951178ac26438159fcc88a6a3e71b4c69f75b4c00cde6033f6bf2cc781
+Full Name: ifani mani, Email: ifani@gmail.com, Password: 4cd738d2671c2ff41df3bc375a8a53de9a317355fb3d71c0f3cf181b2056f37c
+Full Name: tsekeleke, Email: tsekeleke@gmail.com, Password: bb0f3781e4eeebfbdbf06b678a4739f9cbe3b6ac795d7c9fd7b64bc3acdc4f7f
+Full Name: hello, Email: hello@gmail.com, Password: f2f87127081f544fe702f18a46586af11167b1316ab9205ebeb8a2797f885fd5
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Email: None, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders
+Full Name: delete, Email: delete@gmail.com, Password: 9452c17070621b98cd27cbb5194645a2d04da86c54705ce72ae7eeafcb61cc67
+Full Name: irnvkwn, Email: rrwfef@gmail.com, Password: 669a27c37498f5f53a814b56bacc4ea2461d19af41b5d1350c40eb458f6410f7
+Full Name: rgtefbdf, Email: betbteg@gmail.com, Password: cbf032e00a6ae858a6a993cb30bf5fcadc28edcfb38701a79cb990af684d8170
+Full Name: wefrwgfb, Email: fddbd@gmail.com, Password: 8341501f78f7fb5ced7ad25cfc23f0e794bcec440a8b595c2e9948dc3fb61a0b
+Full Name: wefrwgfb, Email: fddbd@gmail.com, Password: 8341501f78f7fb5ced7ad25cfc23f0e794bcec440a8b595c2e9948dc3fb61a0b
+Full Name: wefrwgfb, Email: fddbd@gmail.com, Password: 8341501f78f7fb5ced7ad25cfc23f0e794bcec440a8b595c2e9948dc3fb61a0b
+Full Name: wefrwgfb, Email: fddbd@gmail.com, Password: 8341501f78f7fb5ced7ad25cfc23f0e794bcec440a8b595c2e9948dc3fb61a0b
+Full Name: efdscs, Email: efzsa@gmail.com, Password: 52d75a16f2549392872c9255572ad2a938cb11d59706263ebfd759b33b9eab3c
+Email: efzsa@gmail.com, Fitness Goal: Weight Loss, Focus Areas: Legs, Back, Shoulders, Arms, Abs, Butt, Chest, Full Body
+Email: efzsa@gmail.com, Weight: 70.0 kg, Height: 5.1 m, BMI: 2.69, Category: Underweight, Gender: Male, Age: 23 |
+Full Name: wvrgebd, Email: rvwrs@gmail.com, Password: 2d49246d48269afc0ef80f64c6a69ba9314b65b1e01556976ec2f5dc0243e4ef
+Email: rvwrs@gmail.com, Fitness Goal: Weight Loss, Focus Areas: Chest, Arms, Shoulders, Back, Legs
+Email: rvwrs@gmail.com, Weight: 70.0 kg, Height: 5.1 m, BMI: 2.69, Category: Underweight, Gender: Male, Age: 23 |
+Full Name: defwfsd, Email: sdfe@gmail.com, Password: 2091cd3ccc70bb37696fed874d2226095b5b557680fdaed86732ca2d01ac924b
+Email: sdfe@gmail.com, Fitness Goal: Weight Loss, Focus Areas: Back, Legs, Shoulders, Arms
+Email: sdfe@gmail.com, Weight: 75.0 kg, Height: 5.1 m, BMI: 2.88, Category: Underweight, Gender: Male, Age: 23 |
+Full Name: dvssdvs, Email: swedfew@gmail.com, Password: 5d075b5b59d04536900eaba9e4e0b8e0c2320acbf1b5165a2de2b9816d14bc83
+random@gmail.com,Running,10/23/24,30,150,0.3,3.0,3.0
+random@gmail.com,Cycling,10/23/24,34,170,0.34,3.4000000000000004,3.4
+random@gmail.com,Cycling,10/23/24,34,170,0.34,3.4000000000000004,3.4
+random@gmail.com,Swimming,10/23/24,50,250,0.5,5.0,5.0
+random@gmail.com,Swimming,10/23/24,50,250,0.5,5.0,5.0
+Full Name: kat, Email: kat@gmail.com, Password: 00d945d26d7acdb245344c7a5288b1ad16aa5378d926afafeb762ea7824034b9
+kat@gmail.com,Swimming,10/11/24,2,10,0.02,0.2,0.2
+Full Name:  vsfbfbb, Email: bnsfv@gmail.com, Password: 069ed0d8d602d1f0376adb5a09112261a836149a7d4348d766e429a98a5afe89
+Full Name: aafefqef, Email: agsvv@gmail.com, Password: bde15f570f5c28874ca2df3691fd5acd1a70f084146899c6b1425295a3044856
+Full Name: afsdvgfbv, Email: vsdvfbs@gmail.com, Password: 1d3b968cfdea5034c8d2f2b8eb6e6418b4464be57d6bd5ff76d48db04ffc5ab6
+Full Name: Lutho Ngwala, Email: luthongwala100@gmail.com, Password: P@$$word2001
+default@example.com,Wall sit,10/24/24,20,100,0.2,2.0,2.0
+default@example.com,Step up,10/24/24,10,50,0.1,1.0,1.0
+default@example.com,Pull up,10/24/24,30,150,0.3,3.0,3.0
+Full Name: sfevadvg, Email: vadgd@gmail.com, Password: P@$$word2001
+Full Name: cfdsgfb, Email: gdgfadsv@gmail.com, Password: P@$$word2001
+Full Name: dhvbiufjbv, Email: dsaucvh2@gmail.com, Password: P@$$word2001
+Email: dsaucvh2@gmail.com, Fitness Goal: Weight Loss, Focus Areas: Legs
+Email: dsaucvh2@gmail.com, Weight: 78.0 kg, Height: 5.1 m, BMI: 3.00, Category: Underweight, Gender: Male, Age: 23 |
+luthongwala100@gmail.com,Plank,10/24/24,30,150,0.3,3.0,3.0
+luthongwala100@gmail.com,Shoulder bridge,10/24/24,50,250,0.5,5.0,5.0
+luthongwala100@gmail.com,Arm circles,10/24/24,10,50,0.1,1.0,1.0
+Full Name: Lexi Pretorius, Email: lexi@webtonic.co.za, Password: Jayred*1
+Full Name: vfadgdg, Email: egfadgdg@gmail.com, Password: P@$$word2001
